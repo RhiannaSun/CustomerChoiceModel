@@ -1,4 +1,4 @@
-# CustomerChoiceModel
+# Multinomial Logit Model Based Optimal Assortment on Customer Segmentation
 OVERVIEW:
 
 Finding and maintaining the optimal assortment of products to sell in stores has always been at the core of a retailer’s commercial activity. Retailers who get the assortment right enjoy more sales, higher gross margins, leaner operations, and most importantly, more loyal customers. On the other hand, a deeper understanding of customer segments has validated the value of focussing on different types of customers and can guide firms toward more effective ways to market products and develop strategy specifically. In particular for the online marketplace, the extensive data provides the convenience for data analysis to achieve the business goal of the company.
